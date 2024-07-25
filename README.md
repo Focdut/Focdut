@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fox</h1>
-<h3 align="center">A passionate cyber security from Viet Nam 🇻🇳🇻🇳🇻🇳</h3>
+<h3 align="center">A passionate cyber security from Viet Nam 🇻🇳</h3>
 
-- 👨‍💻 All of my projects are available at [https://focdut.github.io/portfolio](https://focdut.github.io/portfolio)
+- 👨‍💻 All of my projects are available at [https://focdut.github.io](https://focdut.github.io)
 
 - 💬 Ask me about **cyber security**
 
